@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Samantha 👋
 
-<!--
-**skd-main/skd-main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science & Data Analytics - University of York (2026)
+💼 Senior R&I Analyst
+📍 Kent, UK
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- SQL (SSMS)
+- Python (Pandas, NumPy, Scikit-learn)
+- Feature Engineering & Temporal Analysis
+- Machine Learning
+- Power BI (PL-300 in progress)
+- Excel & UBW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently working on
+- Microsoft PL-300 Power BI certification
+- Building public data projects
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/sk-drew)
