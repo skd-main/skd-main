@@ -1,28 +1,20 @@
-# UKRI Research Funding Dashboard
+# Hi, I'm Samantha 👋
 
-Analysis and visualisation of UK Research and Innovation (UKRI) 
-publicly funded research projects using Python and Power BI.
+🎓 MSc Computer Science & Data Analytics - University of York (2026)
+💼 Senior R&I Analyst
+📍 Kent, UK
 
-## Data Source
-Gateway to Research (GtR) - https://gtr.ukri.org
-Downloaded: June 2026
-174,405 projects, 25 columns
+## 🛠️ Skills
+- SQL (SSMS)
+- Python (Pandas, NumPy, Scikit-learn)
+- Feature Engineering & Temporal Analysis
+- Machine Learning
+- Power BI (PL-300 in progress)
+- Excel & UBW
 
-## Project Structure
-mycode/
-└── ukri_projects/
-    ├── data/
-    │   └── ukri_projects_raw.csv
-    ├── explore_ukri.py
-    ├── requirements.txt
-    └── README.md
+## 🌱 Currently working on
+- Microsoft PL-300 Power BI certification
+- Building public data projects
 
-## Progress
-- [x] Downloaded raw data
-- [x] Initial data exploration
-- [ ] Data cleaning
-- [ ] Power BI dashboard
-
-## Requirements
-See requirements.txt
-
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/sk-drew)
